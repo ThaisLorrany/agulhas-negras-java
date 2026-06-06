@@ -174,7 +174,7 @@ public class TelaRegistromei extends javax.swing.JFrame {
 
         jTextField11.addActionListener(this::jTextField11ActionPerformed);
 
-        jButton1.setBackground(new java.awt.Color(0, 51, 204));
+        jButton1.setBackground(new java.awt.Color(0, 204, 0));
         jButton1.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         jButton1.setForeground(new java.awt.Color(255, 255, 255));
         jButton1.setText("Cadastrar");
